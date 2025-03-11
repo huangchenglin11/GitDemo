@@ -39,8 +39,8 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我最喜欢的环境管理工具是 conda
 
-<img src=""C:\Users\Administrator\Desktop\1\屏幕截图 2025-02-25 100616.png"" width="800">
+<img src="https://i.postimg.cc/1f1WZ2f7/2025-02-25-100616.png" width="800" alt="环境搭建截图">
 
 ### 我可以在 IDE 上使用我建立的虚拟环境
 
-<img src=""C:\Users\Administrator\Desktop\1\屏幕截图 2025-02-28 021816.png"" width="800" >
+<img src="https://i.postimg.cc/RN1gCdtS/2025-02-28-021816.png" width="800" alt="IDE使用截图">
