@@ -16,7 +16,7 @@
 3. ~~大壮~~
 
 ### 重要坐标
-- 住址：[和小七的温馨小家]
+- 地址 https://baike.baidu.com/item/%E5%A5%B6%E9%BE%99/58798883
 ### 日常作息表
 | 时间 | 事项                        |
 | ---- |---------------------------|
@@ -39,8 +39,8 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我最喜欢的环境管理工具是 conda
 
-<img src=https://i.postimg.cc/1f1WZ2f7/2025-02-25-100616.png width=800 >
+<img src="2025-02-25-100616.png" width=800 >
 
 ### 我可以在 IDE 上使用我建立的虚拟环境
 
-<img src=https://i.postimg.cc/RN1gCdtS/2025-02-28-021816.png width=800>
+<img src="2025-02-28-021816.png" width=800 >
