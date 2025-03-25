@@ -39,7 +39,7 @@ print(np.array([1, 2, 3]) ** 2)
 
 ### 我最喜欢的环境管理工具是 conda
 
-<img src=C:https://github.com/huangchenglin11/GitDemo/blob/main/images/2025-02-25-100616.png width=800 >
+<img src=https://github.com/huangchenglin11/GitDemo/blob/main/images/2025-02-25-100616.png width=800 >
 
 ### 我可以在 IDE 上使用我建立的虚拟环境
 
