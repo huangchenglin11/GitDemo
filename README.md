@@ -1,5 +1,5 @@
 # 奶龙的自我介绍
-<img src="https://p5.itc.cn/q_70/images01/20230830/2fde7977af9c4bbbb4a1401d36cbee73.jpeg" width="200" alt="奶龙形象">
+<img src="https://github.com/huangchenglin11/GitDemo/blob/main/images/nailong.jpg" width="200" alt="奶龙形象">
 
 **大家好，我是奶龙**，我的身份是*来自异世界超级可爱萌宠*。以下是我的自我介绍：
 
